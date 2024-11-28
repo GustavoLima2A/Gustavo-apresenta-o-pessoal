@@ -13,7 +13,7 @@ body {
 
 header {
     background-color: rgb(90, 108, 87); /* Cor do cabeçalho semelhante à Amazon */
-    color: rgb(211, 241, 223);
+    color: rgb(255, 255, 255);
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -31,7 +31,7 @@ nav ul {
 }
 
 nav ul li a {
-    color:rgb(211, 241, 223);
+    color:rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
 }
