@@ -76,3 +76,21 @@ footer {
 footer p {
     margin: 5px;
 }
+
+/* styles.css */
+.container {
+    display: flex;
+    align-items: center; /* Alinha o texto e a imagem verticalmente */
+    gap: 20px; /* Espaço entre a imagem e o texto */
+}
+
+.imagem {
+    max-width: 150px; /* Limita o tamanho máximo da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+.texto {
+    font-size: 16px; /* Tamanho da fonte do texto */
+    line-height: 1.5; /* Altura da linha para melhorar a legibilidade */
+    color: #333; /* Cor do texto */
+}
