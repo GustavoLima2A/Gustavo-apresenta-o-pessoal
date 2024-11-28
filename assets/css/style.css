@@ -9,6 +9,7 @@ body {
     font-family: Arial, sans-serif;
     background-color:rgb(255, 255, 255);
     color:rgb(0, 0, 0);
+    margin-bottom: 15px; 
 }
 
 header {
@@ -18,10 +19,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 15px; 
 }
 
 header .logo img {
     height: 40px;
+    margin-bottom: 15px; 
 }
 
 nav ul {
@@ -48,6 +51,7 @@ header .busca button {
     background-color: #f8a800;
     border: none;
     cursor: pointer;
+
 }
 
 main {
@@ -64,6 +68,7 @@ main {
     width: 150px;
     height: 150px;
     object-fit: cover;
+    margin-bottom: 15px; 
 }
 
 footer {
