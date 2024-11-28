@@ -7,13 +7,13 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color:rgb(211, 241, 223);
+    color:rgb(82, 91, 68);
 }
 
 header {
-    background-color: #131921; /* Cor do cabeçalho semelhante à Amazon */
-    color: white;
+    background-color: rgb(90, 108, 87); /* Cor do cabeçalho semelhante à Amazon */
+    color: rgb(211, 241, 223);
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -31,7 +31,7 @@ nav ul {
 }
 
 nav ul li a {
-    color: white;
+    color:rgb(211, 241, 223);
     text-decoration: none;
     font-weight: bold;
 }
@@ -68,29 +68,11 @@ main {
 
 footer {
     background-color: #131921;
-    color: white;
+    color: rgb(211, 241, 223);
     padding: 10px;
     text-align: center;
 }
 
 footer p {
     margin: 5px;
-}
-
-/* styles.css */
-.container {
-    display: flex;
-    align-items: center; /* Alinha o texto e a imagem verticalmente */
-    gap: 20px; /* Espaço entre a imagem e o texto */
-}
-
-.imagem {
-    max-width: 150px; /* Limita o tamanho máximo da imagem */
-    height: auto; /* Mantém a proporção da imagem */
-}
-
-.texto {
-    font-size: 16px; /* Tamanho da fonte do texto */
-    line-height: 1.5; /* Altura da linha para melhorar a legibilidade */
-    color: #333; /* Cor do texto */
 }
