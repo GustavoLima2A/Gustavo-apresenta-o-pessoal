@@ -75,7 +75,7 @@ main {
     border: 1px solid #ddd; 
     border-radius: 5px; 
     width: 100%; 
-    max-width: 300px; 
+    max-width: 50px; 
   }
   
   .produto2 {
@@ -88,7 +88,7 @@ main {
     border: 1px solid #ddd; 
     border-radius: 5px; 
     width: 100%; 
-    max-width: 300px; 
+    max-width: 50px; 
   }
 
   .produto3 {
@@ -101,7 +101,7 @@ main {
     border: 1px solid #ddd; 
     border-radius: 5px; 
     width: 100%; 
-    max-width: 300px; 
+    max-width: 50px; 
   }
 
   .produto4 {
@@ -114,7 +114,7 @@ main {
     border: 1px solid #ddd; 
     border-radius: 5px; 
     width: 100%; 
-    max-width: 300px; 
+    max-width: 50px; 
   }
 
   .produto5 {
@@ -127,7 +127,7 @@ main {
     border: 1px solid #ddd; 
     border-radius: 5px; 
     width: 100%; 
-    max-width: 300px; 
+    max-width: 50px; 
   }
 
   .produto6 {
@@ -140,9 +140,9 @@ main {
     border: 1px solid #ddd; 
     border-radius: 5px; 
     width: 100%; 
-    max-width: 300px; 
+    max-width: 50px; 
   }
-  
+
 .produto img {
     width: 150px;
     height: 150px;
