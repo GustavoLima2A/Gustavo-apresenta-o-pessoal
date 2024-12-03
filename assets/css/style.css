@@ -62,7 +62,7 @@ main {
     display: flex;
     gap: 20px;
     margin-bottom: 35px;
-    overflow-x: auto;
+
 }
 
 .produto img {
