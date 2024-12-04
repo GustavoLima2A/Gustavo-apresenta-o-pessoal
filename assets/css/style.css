@@ -54,6 +54,11 @@ header .busca button {
 
 }
 
+.deconto {
+  height: 100px;
+  margin-bottom:50px; 
+}
+
 main {
     padding: 20px;
 }
