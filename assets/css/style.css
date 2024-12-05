@@ -57,7 +57,8 @@ header .busca button {
 .deconto {
   height: 150px;
   margin-bottom:100px;
-  display: center; 
+  text-align: center; 
+ display: center; 
 }
 
 main {
