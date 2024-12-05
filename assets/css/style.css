@@ -55,8 +55,9 @@ header .busca button {
 }
 
 .deconto {
-  height: 100px;
-  margin-bottom:50px; 
+  height: 150px;
+  margin-bottom:100px;
+  display: center; 
 }
 
 main {
