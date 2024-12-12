@@ -12,6 +12,10 @@ body {
     margin-bottom: 15px; 
 }
 
+.content sua-foto {
+  text-align: center;
+}
+
 header {
     background-color: rgb(0, 0, 0); 
     color: rgb(255, 255, 255);
